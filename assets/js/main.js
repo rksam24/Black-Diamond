@@ -34,14 +34,14 @@ if(mybutton) {
 let header = $(`
 <nav class="fixed-top black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="assets/images/logo.png"></a>
+    <a href="#!" class="brand-logo"><img src="assets/images/YM.svg"></a>
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a class="white-text" href="index.html">Home</a></li>
-        <li><a class="white-text" href="experience.html">Experience</a></li>
+        <li><a class="white-text" href="About_us.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
-        <li><a class="white-text" href="research.html">Research</a></li>
+        <li><a class="white-text" href="contact_us.html">Research</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="skill.html">Skills</a></li>
         <li><a class="white-text" href="index.html">Blog</a></li>
@@ -68,9 +68,9 @@ let header = $(`
 <ul class="sidenav" id="mobile-demo">
 <li><a class="sidenav-close" href="#!"><i class="material-icons">close</i></a></li>
 <li><a href="index.html">Home</a></li>
-<li><a href="experience.html">Experience</a></li>
+<li><a href="About_us.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-<li><a href="research.html">Research</a></li>
+<li><a href="contact_us.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="skill.html">Skills</a></li>
 <li><a href="index.html">Blog</a></li>

@@ -20,7 +20,7 @@ window.onload = function () {
   document.addEventListener("visibilitychange", function (e) {
     if (!document.hidden) {
       document.title = pageTitle;
-      favicon.href = "./assets/images/dp_male.svg";
+      favicon.href = "./assets/images/YM3.png";
     }
   });
 
@@ -28,10 +28,10 @@ window.onload = function () {
     blinkEvent = setInterval(() => {
       if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./assets/images/dp_male.svg";
+        favicon.href = "./assets/images/YM3.png";
       } else {
         document.title = attentionMessage;
-        favicon.href = "./assets/images/favicon.png";
+        favicon.href = "./assets/images/YM3.png";
       }
     }, 1000);
   }

@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-<a class="navbar-brand" href="index.html">Team Black Diamond </a>
+<a class="navbar-brand" href="index.html"><img src="assets/images/YM.png" width="100px"> </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> 
 
   <div id="js-hamburger" class="hamburger">
@@ -16,8 +16,8 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item"><a class="nav-link" href="About_us.html">About us</a></li>
-   <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+   <li class="nav-item"><a class="nav-link" href="About_us.html">About</a></li>
+   <li class="nav-item"><a class="nav-link" href="projects.html">Projects and Research</a></li>
    <li class="nav-item"><a class="nav-link" href="contact_us.html">Contact Us</a></li>
    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
    <div class="bike">
