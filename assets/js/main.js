@@ -39,10 +39,10 @@ let header = $(`
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a class="white-text" href="index.html">Home</a></li>
-        <li><a class="white-text" href="About_us.html">Experience</a></li>
-        <li><a class="white-text" href="projects.html">Projects</a></li>
-        <li><a class="white-text" href="contact_us.html">Research</a></li>
-        <li><a class="white-text" href="education.html">Education</a></li>
+        <li><a class="white-text" href="About_us.html">About</a></li>
+        <li><a class="white-text" href="Academy.html">Academy</a></li>
+        <li><a class="white-text" href="contact_us.html">Contact_us</a></li>
+        <li><a class="white-text" href="Developer_Team.html">Devloper</a></li>
         <li><a class="white-text" href="skill.html">Skills</a></li>
         <li><a class="white-text" href="index.html">Blog</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->

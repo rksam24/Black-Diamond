@@ -17,9 +17,9 @@ let header = $(`
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="About_us.html">About</a></li>
-   <li class="nav-item"><a class="nav-link" href="projects.html">Projects and Research</a></li>
-   <li class="nav-item"><a class="nav-link" href="contact_us.html">Contact Us</a></li>
-   <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
+   <li class="nav-item"><a class="nav-link" href="Academy.html">Academics</a></li>
+   <li class="nav-item"><a class="nav-link" href="contact_us.html">Contact</a></li>
+   <li class="nav-item"><a class="nav-link" href="Developer_Team.html">Developer Team</a></li>
    <div class="bike">
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 0 650 400" preserveAspectRatio="xMinYMin meet"> 
      <rect/>
