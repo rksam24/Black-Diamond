@@ -2,6 +2,7 @@
   font-family: "Agustina";
   src: url(../fonts/Agustina.woff);
 }
+/* this is css file */
 /*CSS variable declaration for light/dark mode*/
 html[data-theme="light"] {
   --bg-mybtn: red;
